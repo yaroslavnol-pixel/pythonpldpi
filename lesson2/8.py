@@ -1,3 +1,4 @@
+#Збільшити всі елементи масиву вдвічі.
 import random
 a = [random.randint(0, 50) for _ in range(10)]
 print("Початковий масив:", a)
